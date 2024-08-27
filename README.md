@@ -15,6 +15,23 @@ This Todo List Application is a simple web-based task manager that allows users 
 ### Demo
 Check out the live demo of the project: [TodoList](https://codtech-task1.vercel.app/)
 
+### ScreenShots:
+  **Start Page**
+  ![image](https://github.com/user-attachments/assets/27139c01-9451-4f17-aa7f-fe4bcd72ccc6)
+  **Adding task but not entered**
+  ![image](https://github.com/user-attachments/assets/d1229a44-d20b-434d-b6aa-a9a239cc171d)
+  **After Adding task**
+  ![image](https://github.com/user-attachments/assets/3d2569fe-5f59-4dd3-a714-526bed02e95b)
+  **Mark Task**
+  ![image](https://github.com/user-attachments/assets/967bec13-d7ea-410f-a2f6-c0157e0401ab)
+  **Edit**
+  ![image](https://github.com/user-attachments/assets/7ebf07ec-4882-4489-98a1-7d5c819fcd4d)
+  **After Edit**
+  ![image](https://github.com/user-attachments/assets/8c97273c-4f74-4c58-a8a9-5b83ded64afb)
+  **Delete**
+  ![image](https://github.com/user-attachments/assets/e55b6004-cbc6-4e90-8062-b4cc479837cf)
+  **Delete but nothung is present**
+  ![image](https://github.com/user-attachments/assets/04a406df-b229-44be-a530-f89fc4c4262d)
 
 ### Features
 - **Add Tasks**: Users can input new tasks and add them to the list.
