@@ -30,7 +30,7 @@ Check out the live demo of the project: [TodoList](https://codtech-task1.vercel.
   ![image](https://github.com/user-attachments/assets/8c97273c-4f74-4c58-a8a9-5b83ded64afb)
   **Delete**
   ![image](https://github.com/user-attachments/assets/e55b6004-cbc6-4e90-8062-b4cc479837cf)
-  **Delete but nothung is present**
+  **Delete but nothing is present**
   ![image](https://github.com/user-attachments/assets/04a406df-b229-44be-a530-f89fc4c4262d)
 
 ### Features
